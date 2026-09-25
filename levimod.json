@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "SimpleNote",
+  "version": "1.0.0",
+  "minecraft_versions": [
+    "1.26.5X.X"
+  ],
+  "published_at": "2026-09-25T00:00:00Z",
+  "info": {
+    "name": "SimpleNote",
+    "author": "STRV",
+    "icon": "assets/icon.png",
+    "description": "Set a goal note displayed on screen while playing.",
+    "homepage_url": "https://github.com/strv1hax/SimpleNote",
+    "tags": [
+      "Utility"
+    ]
+  },
+  "download": {
+    "type": "direct",
+    "url": "https://github.com/strv1hax/SimpleNote/releases/download/v1.0.0/SimpleNote.levipack"
+  }
+}
